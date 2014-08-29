@@ -2,8 +2,8 @@
 #ifndef _HEAP_H_
 #define _HEAP_H_
 
-#define INFINITY  999999
-#define MAXNODES  1000
+const int INFINITY = 999999;
+const int MAXNODES = 1000;
 
 // Heap node
 typedef struct Node{
